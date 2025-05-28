@@ -21,7 +21,7 @@ for (let i = 1; i <= 100; i++) {
 
 // Bonus: scelta di "i" da parte dell'utente
 console.log("")
-console.log("Da qui inizia il bonus!")
+console.log("Da qui inizia il primo bonus!")
 console.log("")
 
 const userChoice = Number(prompt("Scegli un numero iniziale"))
@@ -50,7 +50,7 @@ for (let i = userChoice; i <= userChoice2; i++) {
 
 // Bonus: scelta di "Fizz" e "Buzz" da parte dell'utente
 console.log("")
-console.log("Da qui terzo bonus!")
+console.log("Da qui il secondo bonus!")
 console.log("")
 
 const userChoiceFizz = Number(prompt("Scegli Fizz"))
